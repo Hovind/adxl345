@@ -1,7 +1,6 @@
 # My new project
 
-This is the default README.md. Please edit me.
-Hovind was here.
+This is the default README.md. ~Please edit me.~ Hovind was here.
 
 # Useful commands
 ### Set up filesystem
